@@ -36,3 +36,7 @@ A simple python program which can be executed  in the terminal. The app, stores 
 ## Support and Further contact details
 
   contact me @ shalodinchepkoech@gmail.com
+  
+  
+  ## Copyright
+  shalodin chepkoech 2022
