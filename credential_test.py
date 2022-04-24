@@ -82,7 +82,7 @@ class TestContact(unittest.TestCase):
         self.new_account.save_account()
         check_account=Credential("Facebook","shalodin sigei","shalodin41")
         check_account.save_account()
-        account_exists=Credential.account_exist("Facebook","shalodin sigei","shalodin21")
+        account_exists=Credential.account_exist("Facebook","shalodin sigei","shalodin41")
         self.assertTrue(account_exists)
 
     #seventh Test,to check if it  returns a list of all credentials saved
