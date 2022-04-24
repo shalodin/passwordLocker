@@ -15,7 +15,7 @@ A simple python program which can be executed  in the terminal. The app, stores 
 
 * This program requires python3.+ 
 * internet to allower you clone the project to your local pc
-* open the project in your Favorite Editor
+* open the project in your Favorite Editor for example vs code
 * clone **https://github.com/shalodin/passwordLocker.git**
 * Open the terminal, go to the project directory and run the command:  **`python3.+ run.py`** to launch the program.
 
