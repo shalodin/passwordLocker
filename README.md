@@ -6,7 +6,7 @@ Shalodin chepkoech
 
 ## Description
 
-A simple python program which can be executed  in the terminal. The app, stores user's account credentials for various accounts and you can  also generates passwords.
+A simple python program which can be executed  in the terminal. The app, stores user's account credentials for various accounts and you can  also generate passwords.
 
 ## Technologies Used
 * Python3.10
